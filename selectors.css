@@ -1,0 +1,36 @@
+header {
+	border: 1px solid hotpink;
+}
+
+nav li {
+	display: inline;
+}
+
+nav li a {
+	color: hotpink;
+	margin: 0 10px;
+}
+
+a .disabled {
+	color:purple;
+}
+
+.disabled {
+	color: grey;
+}
+
+.active {
+	color: yellow;
+}
+
+#red {
+	color: red;
+}
+
+#blue {
+	color: blue;
+}
+
+h4 > {
+	background-color: red;
+}
